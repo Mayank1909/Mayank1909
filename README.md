@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mayank1909
 - 👀 I’m interested in c++, HTML ,CSS
-- 🌱 I’m currently pursuing BE in computer science in 1 year 
--  I am learning css right now so for leaning more ,
 - 💞️ I’m looking to collaborate on  HTML ,CSS PROJECTS
 - 📫 you can pinch me on my email mayank2000joshi@gmail.com
 
