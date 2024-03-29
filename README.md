@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayank1909
-- 👀 I’m interested in c++, React js HTML ,CSS
-- 💞️ I’m looking to collaborate on  React js PROJECTS
+- 👀 I’m interested in React JS, Redux, Express JS, Mongoose, HTML ,CSS
+- 💞️ I’m looking to collaborate on  Web PROJECTS
 - 📫 you can pinch me on my email mayank2000joshi@gmail.com
 
 <!---
