@@ -1,4 +1,4 @@
-# Hi, I’m @Mayank1909! 👋
+# Hi, I’m Mayank Joshi 👋
 
 Welcome to my GitHub profile! I'm passionate about web development and specialize in technologies such as React JS, Redux, Express JS, Mongoose, HTML, and CSS. With a keen eye for detail and a drive for excellence, I'm constantly exploring new ways to create dynamic, responsive, and user-friendly web applications.
 
